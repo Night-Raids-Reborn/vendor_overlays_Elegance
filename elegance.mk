@@ -64,3 +64,10 @@ PRODUCT_PACKAGES += \
     SwitchMD2 \
     SwitchOnePlus \
     SwitchStock
+
+# QS Tile styles
+PRODUCT_PACKAGES += \
+    QStileCircleTrim \
+    QStileDefault \
+    QStileDualToneCircle \
+    QStileSquircleTrim
