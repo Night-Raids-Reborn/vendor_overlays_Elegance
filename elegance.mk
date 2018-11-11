@@ -63,6 +63,14 @@ PRODUCT_PACKAGES += \
     SwitchTelegram \
     SwitchStock
 
+# QS header styles
+PRODUCT_PACKAGES += \
+    QSHeaderBlack \
+    QSHeaderGrey \
+    QSHeaderLightGrey \
+    QSHeaderAccent \
+    QSHeaderTransparent
+
 # QS Tile styles
 PRODUCT_PACKAGES += \
     QStileCircleTrim \
