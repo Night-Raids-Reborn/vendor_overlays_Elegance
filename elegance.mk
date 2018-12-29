@@ -52,3 +52,9 @@ PRODUCT_PACKAGES += \
     IconShapeCloudyOverlay \
     IconShapeCylindricalOverlay \
     IconShapeStretchedOverlay
+
+# switch
+PRODUCT_PACKAGES += \
+    SwitchMD2 \
+    SwitchOnePlus \
+    SwitchStock
