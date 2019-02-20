@@ -60,6 +60,7 @@ PRODUCT_PACKAGES += \
     Contained \
     Retro \
     Narrow \
+    SwitchTelegram \
     SwitchStock
 
 # QS Tile styles
