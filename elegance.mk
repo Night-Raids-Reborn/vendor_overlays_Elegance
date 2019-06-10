@@ -81,6 +81,9 @@ PRODUCT_PACKAGES += \
     QStilesCircleOutline \
     QSTileNeonLight \
     QSTileTriangles \
+    QStileCosmos \
+    QStileDividedCircle \
+    QStileOxygen \
     QStileSquaremedo
 
 # Accents
