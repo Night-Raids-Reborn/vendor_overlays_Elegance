@@ -82,3 +82,29 @@ PRODUCT_PACKAGES += \
     QSTileNeonLight \
     QSTileTriangles \
     QStileSquaremedo
+
+# Accents
+PRODUCT_PACKAGES += \
+    AmberAccent \
+    BlueAccent \
+    BlueGreyAccent \
+    BrownAccent \
+    CyanAccent \
+    CandyRedAccent \
+    DeepOrangeAccent \
+    DeepPurpleAccent \
+    ExtendedGreenAccent \
+    ElegantGreenAccent \
+    GreyAccent \
+    IndigoAccent \
+    JadeGreenAccent \
+    LightBlueAccent \
+    LightGreenAccent \
+    LimeAccent \
+    OrangeAccent \
+    PaleBlueAccent \
+    PaleRedAccent \
+    PinkAccent \
+    RedAccent \
+    TealAccent \
+    YellowAccent
