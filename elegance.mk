@@ -25,4 +25,11 @@ PRODUCT_PACKAGES += \
     FontArvoLatoOverlay \
     FontGoogleSansOverlay \
     FontNotoSerifSourceOverlay \
-    FontRubikRubikOverlay
+    FontRubikRubikOverlay \
+    FontAdamCGinora \
+    FontBigNoodle \
+    FontBikoHanken \
+    FontMittelschrift \
+    FontPissel \
+    FontReemKufi \
+    FontRoboto
