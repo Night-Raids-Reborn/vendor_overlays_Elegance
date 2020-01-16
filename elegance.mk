@@ -32,4 +32,17 @@ PRODUCT_PACKAGES += \
     FontMittelschrift \
     FontPissel \
     FontReemKufi \
-    FontRoboto
+    FontRoboto \
+    FontAclonicaSourceOverlay \
+    FontAmaranteSourceOverlay \
+    FontBariolSourceOverlay \
+    FontCagliostroSourceOverlay \
+    FontComfortaaSourceOverlay \
+    FontComicSansSourceOverlay \
+    FontCoolstorySourceOverlay \
+    FontLGSmartGothicSourceOverlay \
+    FontOneplusSlateSource \
+    FontRosemarySourceOverlay \
+    FontSamsungOneSourceOverlay \
+    FontSonySketchSourceOverlay \
+    FontSurferSourceOverlay
