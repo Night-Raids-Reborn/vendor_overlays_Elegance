@@ -89,6 +89,7 @@ PRODUCT_PACKAGES += \
     AccentColorBlueOverlay \
     AccentColorBlueGreyOverlay \
     AccentColorBrownOverlay \
+    AccentColorCinnamonOverlay \
     AccentColorCyanOverlay \
     AccentColorDeepOrangeOverlay \
     AccentColorDeepPurpleOverlay \
@@ -98,10 +99,13 @@ PRODUCT_PACKAGES += \
     AccentColorLightBlueOverlay \
     AccentColorLightGreenOverlay \
     AccentColorLimeOverlay \
+    AccentColorOceanOverlay \
     AccentColorOrangeOverlay \
+    AccentColorOrchidOverlay \
     AccentColorPinkOverlay \
     AccentColorPurpleOverlay \
     AccentColorRedOverlay \
+    AccentColorSpaceOverlay \
     AccentColorTealOverlay \
     AccentColorYellowOverlay \
     AccentColorExtendedGreenOverlay \
