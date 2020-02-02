@@ -203,6 +203,10 @@
     <alias name="fantasy" to="googlesansmedium" />
     <alias name="ITC Stone Serif" to="googlesansmedium" />
 
+    <family name="tinkerbell">
+        <font weight="300" style="normal">GearTinkerbell.ttf</font>
+    </family>
+
     <family name="lgsmartgothic">
         <font weight="300" style="normal">LGSmartGothic.ttf</font>
     </family>
