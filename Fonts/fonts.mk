@@ -2,6 +2,7 @@
 PRODUCT_PACKAGES += \
     fonts.xml \
     FontAclonicaSourceOverlay \
+    FontAnaheimSourceOverlay \
     FontAmaranteSourceOverlay \
     FontBariolSourceOverlay \
     FontCagliostroSourceOverlay \
@@ -22,6 +23,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_COPY_FILES += \
     vendor/overlays/Elegance/Fonts/prebuilt/Aclonica.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Aclonica.ttf \
+    vendor/overlays/Elegance/Fonts/prebuilt/Anaheim-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Anaheim-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/Amarante.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Amarante.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/Bariol-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Bariol-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/burnstown.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Burnstown-Regular.ttf \
