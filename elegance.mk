@@ -46,3 +46,9 @@ PRODUCT_PACKAGES += \
     FontSamsungOneSourceOverlay \
     FontSonySketchSourceOverlay \
     FontSurferSourceOverlay
+
+# Icon Shapes
+PRODUCT_PACKAGES += \
+    IconShapeCloudyOverlay \
+    IconShapeCylindricalOverlay \
+    IconShapeStretchedOverlay
