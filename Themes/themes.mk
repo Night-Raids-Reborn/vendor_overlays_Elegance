@@ -1,5 +1,7 @@
 # Themes
 PRODUCT_PACKAGES += \
+    ElegantThemeSystemOverlay \
+    ElegantThemeSystemUIOverlay \
     PitchBlackSystemOverlay \
     PitchBlackSystemUIOverlay \
     SolarizedDarkSystemOverlay \
