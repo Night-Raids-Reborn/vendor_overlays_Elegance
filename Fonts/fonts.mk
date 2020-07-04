@@ -14,6 +14,7 @@ PRODUCT_PACKAGES += \
     FontGoogleSansSourceOverlay \
     FontGoogleSansMediumSourceOverlay \
     FontLGSmartGothicSourceOverlay \
+    FontLinotteSourceOverlay \
     FontOneplusSlateSource \
     FontRosemarySourceOverlay \
     FontSamsungOneSourceOverlay \
@@ -50,6 +51,7 @@ PRODUCT_COPY_FILES += \
     vendor/overlays/Elegance/Fonts/prebuilt/GoogleSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/Hanken-Light.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Hanken-Light.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/LGSmartGothic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LGSmartGothic.ttf \
+    vendor/overlays/Elegance/Fonts/prebuilt/Linotte.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Linotte.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/mexcellent.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Mexcellent-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/neoneon.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Neoneon-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/PhantomBold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/PhantomBold-Regular.ttf \
