@@ -39,6 +39,7 @@
         <item>@drawable/fod_icon_spiral_blue</item>
         <item>@drawable/fod_icon_sun_metro</item>
         <item>@drawable/fod_icon_invisible</item>
+        <item>@drawable/fod_icon_coloros</item>
     </integer-array>
 
     <integer-array name="fod_animation_resources">
