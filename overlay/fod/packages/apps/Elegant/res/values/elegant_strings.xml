@@ -37,4 +37,33 @@
     <string name="fod_op_ripple_recognizing_anim">OnePlus Ripple</string>
     <string name="fod_op_energy_recognizing_anim">OnePlus Energy</string>  
 
+    <!-- FOD icons -->
+    <string name="fod_icon_1">Default 9(IUI)</string>
+    <string name="fod_icon_2">CrDroid Logo</string>
+    <string name="fod_icon_3">Minimal</string>
+    <string name="fod_icon_4">Oxygen OS</string>
+    <string name="fod_icon_5">Minimal (Pink Accent)</string>
+    <string name="fod_icon_6">Circle Glow</string>
+    <string name="fod_icon_7">Arc Reactor</string>
+    <string name="fod_icon_8">Captian America flat</string>
+    <string name="fod_icon_9">Captian America flat Grey</string>
+    <string name="fod_icon_10">Dragon Black</string>
+    <string name="fod_icon_11">Future</string>
+    <string name="fod_icon_12">Glow Circle</string>
+    <string name="fod_icon_13">Neon Arc</string>
+    <string name="fod_icon_14">Neon Arc grey</string>
+    <string name="fod_icon_15">Neon Circle pink</string>
+    <string name="fod_icon_16">Neon Triangle</string>
+    <string name="fod_icon_17">Paint Splash circle</string>
+    <string name="fod_icon_18">Rainbow Horn</string>
+    <string name="fod_icon_19">Shooky</string>
+    <string name="fod_icon_20">Spiral Blue</string>
+    <string name="fod_icon_21">Sun Metro</string>
+    <string name="fod_icon_22">Minimal (Red Accent)</string>
+    <string name="fod_icon_23">Invisible</string>
+    <string name="fod_icon_24">Color OS</string>
+    <string name="fod_icon_25">Realme UI</string>
+    <string name="fod_icon_26">Deadpool</string>
+    <string name="fod_icon_27">Rebellion (Red Accent)</string>
+
 </resources>
