@@ -40,6 +40,10 @@
         <item>@drawable/fod_icon_sun_metro</item>
         <item>@drawable/fod_icon_invisible</item>
         <item>@drawable/fod_icon_coloros</item>
+        <item>@drawable/fod_icon_rui</item>
+        <item>@drawable/fod_icon_deadpool</item>
+        <item>@drawable/fod_icon_rebellion</item>
+        <item>@drawable/fod_icon_redskull</item>
     </integer-array>
 
     <integer-array name="fod_animation_resources">
