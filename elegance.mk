@@ -73,6 +73,7 @@ PRODUCT_PACKAGES += \
     QStileSquircle \
     QStileDiamond \
     QStileIconAccent \
+    QSTileBottomTriangle \
     QStileSquaremedo
 
 # Accents
