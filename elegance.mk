@@ -19,12 +19,6 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/ttf,$(TARGET
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/fonts_customization.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/fonts_customization.xml
 
-DEVICE_PACKAGE_OVERLAYS += vendor/overlays/Elegance/common
-ifeq ($(EXTRA_FOD_ANIMATIONS),true)
-DEVICE_PACKAGE_OVERLAYS += vendor/overlays/Elegance/fod
-PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/overlays/Elegance/fod
-endif
-
 #Font Overalys
 PRODUCT_PACKAGES += \
     FontArbutusSourceOverlay \
