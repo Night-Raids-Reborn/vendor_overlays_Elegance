@@ -87,6 +87,7 @@ PRODUCT_PACKAGES += \
     QStileBadgetwo \
     QStileSquircle \
     QStileDiamond \
+    QStileIconAccent \
     QStileSquaremedo
 
 # Accents
