@@ -78,6 +78,15 @@ PRODUCT_PACKAGES += \
     QStileCosmos \
     QStileDividedCircle \
     QStileOxygen \
+    QStileHexagon \
+    QStileStar \
+    QStileTearDrop \
+    QStileSquare \
+    QStileGear \
+    QStileBadge \
+    QStileBadgetwo \
+    QStileSquircle \
+    QStileDiamond \
     QStileSquaremedo
 
 # Accents
