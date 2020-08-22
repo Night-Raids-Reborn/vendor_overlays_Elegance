@@ -19,4 +19,6 @@
 <resources>
     <color name="accent_device_default_light">#FF21EF8B</color>
     <color name="accent_device_default_dark">#FF21EF8B</color>
+    <color name="gradient_start">#FF21EF8B</color>
+    <color name="gradient_end">#FF21EF8B</color>
 </resources>
