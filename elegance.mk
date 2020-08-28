@@ -57,6 +57,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     SwitchMD2 \
     SwitchOnePlus \
+    Contained \
+    Retro \
+    Narrow \
     SwitchStock
 
 # QS Tile styles
