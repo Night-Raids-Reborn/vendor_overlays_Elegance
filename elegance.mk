@@ -105,4 +105,9 @@ PRODUCT_PACKAGES += \
     BrightnessSliderMemeMini \
     BrightnessSliderMemeRound \
     BrightnessSliderMemeRoundStroke \
-    BrightnessSliderMemeStroke
+    BrightnessSliderMemeStroke \
+    BrightnessSliderMemeStrokeGradient \
+    BrightnessSliderRoundStrokeGradient \
+    BrightnessSliderRoundGradient \
+    BrightnessSliderMiniGradient \
+    BrightnessSliderFlat
