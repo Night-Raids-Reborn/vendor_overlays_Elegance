@@ -97,3 +97,12 @@ PRODUCT_PACKAGES += \
     AccentColorYellowOverlay \
     AccentColorExtendedGreenOverlay \
     AccentColorElegantGreenOverlay
+
+# Brightness sliders Styles
+PRODUCT_PACKAGES += \
+    BrightnessSliderDefault \
+    BrightnessSliderDaniel \
+    BrightnessSliderMemeMini \
+    BrightnessSliderMemeRound \
+    BrightnessSliderMemeRoundStroke \
+    BrightnessSliderMemeStroke
