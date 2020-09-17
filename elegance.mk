@@ -112,4 +112,6 @@ PRODUCT_PACKAGES += \
     BrightnessSliderRoundStrokeGradient \
     BrightnessSliderRoundGradient \
     BrightnessSliderMiniGradient \
+    BrightnessSliderHalfGradient \
+    BrightnessSliderMiniHalf \
     BrightnessSliderFlat
