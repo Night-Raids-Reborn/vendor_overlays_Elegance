@@ -29,6 +29,8 @@ PRODUCT_PACKAGES += \
     Retro \
     Narrow \
     SwitchTelegram \
+    StockishSwitch \
+    FluidSwitch \
     SwitchStock
 
 # QS header styles
