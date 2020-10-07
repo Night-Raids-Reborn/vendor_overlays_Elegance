@@ -16,7 +16,9 @@ PRODUCT_PACKAGES += \
     FontSamsungOneSourceOverlay \
     FontSanFranciscoDisplayProSourceOverlay \
     FontSonySketchSourceOverlay \
-    FontSurferSourceOverlay
+    FontSurferSourceOverlay \
+    FontBikoHanken \
+    FontReemKufi
 
 PRODUCT_COPY_FILES += \
     vendor/overlays/Elegance/Fonts/prebuilt/Aclonica.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Aclonica.ttf \
@@ -40,11 +42,13 @@ PRODUCT_COPY_FILES += \
     vendor/overlays/Elegance/Fonts/prebuilt/GoogleSans-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Medium.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/GoogleSans-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-MediumItalic.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/GoogleSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Regular.ttf \
+    vendor/overlays/Elegance/Fonts/prebuilt/Hanken-Light.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Hanken-Light.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/LGSmartGothic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LGSmartGothic.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/mexcellent.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Mexcellent-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/neoneon.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Neoneon-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/PhantomBold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/PhantomBold-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/road_rage.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/RoadRage-Regular.ttf \
+    vendor/overlays/Elegance/Fonts/prebuilt/ReemKufi-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/ReemKufi-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/Rosemary-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Rosemary-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/SamsungOne.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SamsungOne.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/SanFranciscoDisplayPro.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SanFranciscoDisplayPro.ttf \
