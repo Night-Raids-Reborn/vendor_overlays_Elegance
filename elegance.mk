@@ -15,6 +15,9 @@
 # Fonts
 include vendor/overlays/Elegance/Fonts/fonts.mk
 
+# Themes
+include vendor/overlays/Elegance/Themes/themes.mk
+
 # Icon Shapes
 PRODUCT_PACKAGES += \
     IconShapeCloudyOverlay \
