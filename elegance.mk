@@ -99,3 +99,8 @@ PRODUCT_PACKAGES += \
     UiStyleRoundMedium \
     UiStyleNoCornerRadius \
     UiStyleRectangle
+
+# Navbar
+PRODUCT_PACKAGES += \
+    GesturalNavigationOverlayLong \
+    GesturalNavigationOverlayMedium
