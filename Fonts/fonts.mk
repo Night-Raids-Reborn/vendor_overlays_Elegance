@@ -8,6 +8,7 @@ PRODUCT_PACKAGES += \
     FontCagliostroSourceOverlay \
     FontComicSansSourceOverlay \
     FontCoolstorySourceOverlay \
+    FontComfortaaSourceOverlay \
     FontEvolveSansSourceOverlay \
     FontFiraSansSourceOverlay \
     FontTinkerbellSourceOverlay \
@@ -33,6 +34,7 @@ PRODUCT_COPY_FILES += \
     vendor/overlays/Elegance/Fonts/prebuilt/Cagliostro-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Cagliostro-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/Comic_Sans.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Comic_Sans.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/Coolstory-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Coolstory-Regular.ttf \
+    vendor/overlays/Elegance/Fonts/prebuilt/Comfortaa.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Comfortaa.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/dumbledor.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Dumbledor-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/EvolveSans.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/EvolveSans.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/FiraSans-Bold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-Bold.ttf \
