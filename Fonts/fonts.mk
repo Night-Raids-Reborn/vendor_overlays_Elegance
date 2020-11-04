@@ -16,10 +16,12 @@ PRODUCT_PACKAGES += \
     FontTinkerbellSourceOverlay \
     FontGoogleSansSourceOverlay \
     FontGoogleSansMediumSourceOverlay \
+    FontGrandHotelSourceOverlay \
     FontLGSmartGothicSourceOverlay \
     FontLinotteSourceOverlay \
     FontNokiaPureSourceOverlay \
     FontOneplusSlateSource \
+    FontRedressedSourceOverlay \
     FontRosemarySourceOverlay \
     FontSamsungOneSourceOverlay \
     FontSanFranciscoDisplayProSourceOverlay \
@@ -58,6 +60,7 @@ PRODUCT_COPY_FILES += \
     vendor/overlays/Elegance/Fonts/prebuilt/GoogleSans-Medium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Medium.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/GoogleSans-MediumItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-MediumItalic.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/GoogleSans-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSans-Regular.ttf \
+    vendor/overlays/Elegance/Fonts/prebuilt/GrandHotel.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GrandHotel.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/Hanken-Light.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Hanken-Light.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/LGSmartGothic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/LGSmartGothic.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/Linotte.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Linotte.ttf \
@@ -67,6 +70,7 @@ PRODUCT_COPY_FILES += \
     vendor/overlays/Elegance/Fonts/prebuilt/PhantomBold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/PhantomBold-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/road_rage.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/RoadRage-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/ReemKufi-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/ReemKufi-Regular.ttf \
+    vendor/overlays/Elegance/Fonts/prebuilt/Redressed.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Redressed.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/Rosemary-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Rosemary-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/SamsungOne.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SamsungOne.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/SanFranciscoDisplayPro.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SanFranciscoDisplayPro.ttf \
