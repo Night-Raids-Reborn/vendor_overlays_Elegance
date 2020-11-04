@@ -11,12 +11,14 @@ PRODUCT_PACKAGES += \
     FontComfortaaSourceOverlay \
     FontEvolveSansSourceOverlay \
     FontExotwoSourceOverlay \
+    FontFifa2018SourceOverlay \
     FontFiraSansSourceOverlay \
     FontTinkerbellSourceOverlay \
     FontGoogleSansSourceOverlay \
     FontGoogleSansMediumSourceOverlay \
     FontLGSmartGothicSourceOverlay \
     FontLinotteSourceOverlay \
+    FontNokiaPureSourceOverlay \
     FontOneplusSlateSource \
     FontRosemarySourceOverlay \
     FontSamsungOneSourceOverlay \
@@ -41,6 +43,7 @@ PRODUCT_COPY_FILES += \
     vendor/overlays/Elegance/Fonts/prebuilt/dumbledor.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Dumbledor-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/EvolveSans.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/EvolveSans.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/Exotwo.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Exotwo.ttf \
+    vendor/overlays/Elegance/Fonts/prebuilt/Fifa_2018.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Fifa_2018.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/FiraSans-Bold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-Bold.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/FiraSans-BoldItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-BoldItalic.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/FiraSans-Italic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-Italic.ttf \
@@ -60,6 +63,7 @@ PRODUCT_COPY_FILES += \
     vendor/overlays/Elegance/Fonts/prebuilt/Linotte.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Linotte.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/mexcellent.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Mexcellent-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/neoneon.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Neoneon-Regular.ttf \
+    vendor/overlays/Elegance/Fonts/prebuilt/Nokia_Pure.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Nokia_Pure.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/PhantomBold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/PhantomBold-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/road_rage.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/RoadRage-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/ReemKufi-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/ReemKufi-Regular.ttf \
