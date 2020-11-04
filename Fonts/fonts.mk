@@ -20,6 +20,7 @@ PRODUCT_PACKAGES += \
     FontLGSmartGothicSourceOverlay \
     FontLinotteSourceOverlay \
     FontNokiaPureSourceOverlay \
+    FontNunitoSourceOverlay \
     FontOneplusSlateSource \
     FontRedressedSourceOverlay \
     FontRosemarySourceOverlay \
@@ -67,6 +68,8 @@ PRODUCT_COPY_FILES += \
     vendor/overlays/Elegance/Fonts/prebuilt/mexcellent.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Mexcellent-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/neoneon.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Neoneon-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/Nokia_Pure.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Nokia_Pure.ttf \
+    vendor/overlays/Elegance/Fonts/prebuilt/Nunito-Bold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Nunito-Bold.ttf \
+    vendor/overlays/Elegance/Fonts/prebuilt/Nunito-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Nunito-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/PhantomBold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/PhantomBold-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/road_rage.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/RoadRage-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/ReemKufi-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/ReemKufi-Regular.ttf \
