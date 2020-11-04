@@ -10,6 +10,7 @@ PRODUCT_PACKAGES += \
     FontCoolstorySourceOverlay \
     FontComfortaaSourceOverlay \
     FontEvolveSansSourceOverlay \
+    FontExotwoSourceOverlay \
     FontFiraSansSourceOverlay \
     FontTinkerbellSourceOverlay \
     FontGoogleSansSourceOverlay \
@@ -21,7 +22,9 @@ PRODUCT_PACKAGES += \
     FontSamsungOneSourceOverlay \
     FontSanFranciscoDisplayProSourceOverlay \
     FontSonySketchSourceOverlay \
+    FontStoropiaSourceOverlay \
     FontSurferSourceOverlay \
+    FontUbuntuSourceOverlay \
     FontBikoHanken \
     FontReemKufi
 
@@ -37,6 +40,7 @@ PRODUCT_COPY_FILES += \
     vendor/overlays/Elegance/Fonts/prebuilt/Comfortaa.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Comfortaa.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/dumbledor.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Dumbledor-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/EvolveSans.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/EvolveSans.ttf \
+    vendor/overlays/Elegance/Fonts/prebuilt/Exotwo.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Exotwo.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/FiraSans-Bold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-Bold.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/FiraSans-BoldItalic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-BoldItalic.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/FiraSans-Italic.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/FiraSans-Italic.ttf \
@@ -67,5 +71,7 @@ PRODUCT_COPY_FILES += \
     vendor/overlays/Elegance/Fonts/prebuilt/SlateFromOP-Regular.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SlateFromOP-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/snowstorm.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Snowstorm-Regular.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/SonySketch.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SonySketch.ttf \
+    vendor/overlays/Elegance/Fonts/prebuilt/Storopia.ttf::$(TARGET_COPY_OUT_SYSTEM)/fonts/Storopia.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/Surfer.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Surfer.ttf \
+    vendor/overlays/Elegance/Fonts/prebuilt/Ubuntu.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Ubuntu.ttf \
     vendor/overlays/Elegance/Fonts/prebuilt/vcr_osd_mono.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/ThemeableFont-Regular.ttf
