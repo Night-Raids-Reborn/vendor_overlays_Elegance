@@ -18,6 +18,12 @@ include vendor/overlays/Elegance/Fonts/fonts.mk
 # Themes
 include vendor/overlays/Elegance/Themes/themes.mk
 
+# FOD Animations
+ifeq ($(EXTRA_FOD_ANIMATIONS),true)
+PRODUCT_PACKAGES += \
+    FodAnimations
+endif
+
 # Icon Shapes
 PRODUCT_PACKAGES += \
     IconShapeCloudyOverlay \
