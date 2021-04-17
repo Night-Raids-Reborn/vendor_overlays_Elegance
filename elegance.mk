@@ -111,3 +111,10 @@ PRODUCT_PACKAGES += \
     GesturalNavigationOverlayLong \
     GesturalNavigationOverlayMedium \
     GesturalNavigationOverlayHidden
+
+# Statusbar Height
+PRODUCT_PACKAGES += \
+    Small \
+    Medium \
+    Large \
+    XLarge
