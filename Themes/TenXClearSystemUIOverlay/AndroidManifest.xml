@@ -16,11 +16,11 @@
  */
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.android.theme.eleganttheme.systemui"
+          package="com.android.theme.tenx_clear.systemui"
           android:versionCode="1"
           android:versionName="1.0">
     <overlay android:targetPackage="com.android.systemui" android:category="android.theme.customization.accent_color" android:priority="1"/>
 
-    <application android:label="ElegantThemeSystemUI" android:hasCode="false"/>
+    <application android:label="TenXClearSystemUI" android:hasCode="false"/>
 </manifest>
 
