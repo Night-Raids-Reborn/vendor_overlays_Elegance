@@ -2,6 +2,8 @@
 PRODUCT_PACKAGES += \
     TenXClearSystemOverlay \
     TenXClearSystemUIOverlay \
+    TenXUltraClearSystemOverlay \
+    TenXUltraClearSystemUIOverlay \
     PitchBlackSystemOverlay \
     PitchBlackSystemUIOverlay \
     SolarizedDarkSystemOverlay \
