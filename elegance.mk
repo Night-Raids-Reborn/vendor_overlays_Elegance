@@ -118,3 +118,8 @@ PRODUCT_PACKAGES += \
     Medium \
     Large \
     XLarge
+
+# Seekbar styles
+PRODUCT_PACKAGES += \
+    MIUIAccent \
+    MIUIGradient

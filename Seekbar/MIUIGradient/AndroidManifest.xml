@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+   package="com.tenx.seekbarstyle.miui_gradient"
+   android:versionCode="1"
+   android:versionName="1.0">
+    <overlay android:targetPackage="android"
+        android:category="android.theme.customization.seekbar_styles"
+        android:priority="1"/>
+
+    <application android:label="MIUI (Gradient)" android:hasCode="false"/>
+</manifest>
