@@ -50,38 +50,6 @@ PRODUCT_PACKAGES += \
     QSHeaderAccent \
     QSHeaderTransparent
 
-# QS Tile styles
-PRODUCT_PACKAGES += \
-    QStileCircleTrim \
-    QStileDefault \
-    QStileDualToneCircle \
-    QStileSquircleTrim \
-    QStileAttemptMountain \
-    QStileDottedCircle \
-    QStileNinja \
-    QStilePokesign \
-    QStileWavey \
-    QStileInkDrop \
-    QStileCookie \
-    QStilesCircleOutline \
-    QSTileNeonLight \
-    QSTileTriangles \
-    QStileCosmos \
-    QStileDividedCircle \
-    QStileOxygen \
-    QStileHexagon \
-    QStileStar \
-    QStileTearDrop \
-    QStileSquare \
-    QStileGear \
-    QStileBadge \
-    QStileBadgetwo \
-    QStileSquircle \
-    QStileDiamond \
-    QStileIconAccent \
-    QSTileBottomTriangle \
-    QStileSquaremedo
-
 # Brightness sliders Styles
 PRODUCT_PACKAGES += \
     BrightnessSliderDefault \
