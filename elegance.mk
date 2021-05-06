@@ -113,3 +113,7 @@ PRODUCT_PACKAGES += \
     RoundWiFiOverlay \
     InsideWiFiOverlay \
     BarsWiFiOverlay
+
+# TenX Packages
+PRODUCT_PACKAGES += \
+    TenXWallpapers
